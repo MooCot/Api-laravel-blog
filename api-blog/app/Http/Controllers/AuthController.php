@@ -7,7 +7,8 @@ use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use \Validator;
 
-class AuthController extends Controller
+// class AuthController extends Controller
+class AuthController
 {
 
     public function test(Request $request)
